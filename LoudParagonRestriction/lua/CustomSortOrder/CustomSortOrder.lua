@@ -1,0 +1,3 @@
+SortOrder = {
+		"PARAGON"
+}
